@@ -33,10 +33,10 @@ body nav {
   padding-bottom: 0;
 }
 body nav .logo a {
-  color: red;
+  color: #fff;
 }
 body nav .day-night {
-  color: red;
+  color: #fff;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -75,7 +75,7 @@ body .search .input__middle input {
   width: 100%;
   border: none;
   outline: none;
-  color: red;
+  color: #fff;
   font-size: 1.5rem;
   font-family: "Space Mono", monospace;
 }
@@ -134,14 +134,14 @@ body main .main__section .main__section-header {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  color: red;
+  color: #fff;
   margin-bottom: 20px;
 }
 body main .main__section .main__section-header .main__section-header-text .username {
   color: #0079ff;
 }
 body main .main__section .bio {
-  color: red;
+  color: #fff;
   font-size: 18px;
   font-weight: 400;
   margin-bottom: 20px;
@@ -159,7 +159,7 @@ body main .main__section .main__section-info {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: red;
+  color: #fff;
   padding: 0 20px;
   border-radius: 20px;
   margin-bottom: 40px;
@@ -190,7 +190,7 @@ body main .main__section .urls__section .urls__section-left .top a,
 body main .main__section .urls__section .urls__section-left .bottom a,
 body main .main__section .urls__section .urls__section-right .top a,
 body main .main__section .urls__section .urls__section-right .bottom a {
-  color: red;
+  color: #fff;
 }
 
 @media screen and (max-width: 768px) {
